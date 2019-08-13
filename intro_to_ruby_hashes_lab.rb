@@ -1,7 +1,7 @@
 def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
-	monoply = {:railroads => "player1"}
+	monoply = {:railroads => {}}
 end
 
 def monopoly_with_second_tier
