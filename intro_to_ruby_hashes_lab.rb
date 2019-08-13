@@ -26,9 +26,9 @@ def monopoly_with_third_tier
   monoply = {:railroads => {
    :pieces => 4,
    :rent_in_dollars => {
-     :level1 => 100
-     :level2 => 200
-     :level3 => 300
+     :level1 => 100,
+     :level2 => 200,
+     :level3 => 300,
      :level4 => 400
      
    }
