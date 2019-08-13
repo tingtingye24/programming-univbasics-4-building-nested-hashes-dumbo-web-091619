@@ -31,7 +31,7 @@ def monopoly_with_third_tier
      :level3 => 300,
      :level4 => 400
      
-   }
+   },
    :names => "penn"
   }
     
