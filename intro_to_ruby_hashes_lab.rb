@@ -33,9 +33,9 @@ def monopoly_with_third_tier
      
    },
    :names => {
-     :railroad1 => "hello"
-     :railroad2 => "hello"
-     :railroad3 => "hello"
+     :railroad1 => "hello",
+     :railroad2 => "hello",
+     :railroad3 => "hello",
      :railroad4 => "hello"
      
      
