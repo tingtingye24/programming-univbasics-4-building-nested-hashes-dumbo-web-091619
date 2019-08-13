@@ -27,9 +27,9 @@ def monopoly_with_third_tier
    :pieces => 4,
    :rent_in_dollars => {
      :one_piece_owned => 100,
-     :level2 => 200,
-     :level3 => 300,
-     :level4 => 400
+     :two_piece_owned => 200,
+     :three_piece_owned => 300,
+     :four_piece_owned => 400
      
    },
    :names => {
